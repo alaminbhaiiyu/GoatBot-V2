@@ -11,6 +11,7 @@ module.exports = {
     version: "2.2.0",
     description: "Loop bot with admin filter, reply-based add/remove, and input filter",
     usage: ".bby on/off/admin add/remove/list",
+    category: "gali",
     cooldown: 0
   },
 
