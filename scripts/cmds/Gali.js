@@ -12,6 +12,7 @@ module.exports.config = {
   credits: "Alamin",
   description: "Globally add/remove gali and tag with gali repeatedly",
   usage: ".gali add/remove/dao",
+  category:"gali ",
   cooldown: 3,
 };
 
